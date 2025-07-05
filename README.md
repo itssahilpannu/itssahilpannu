@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there 👋 I'm Sahil Pannu
 
-<!--
-**itssahilpannu/itssahilpannu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 **Cybersecurity Enthusiast** | 🎯 **Top 9% on TryHackMe**  
+🎓 **B.Tech in Computer Science**  
+🛡️ **SOC Intern @ DCM Infotech**  
+💻 Passionate about **Digital Forensics**, **Linux**, and **SIEM Monitoring**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Current Focus
+- 📚 Practicing labs on TryHackMe (Cybersecurity 101 Path)
+- 🔍 Exploring threat detection & SOC workflows
+- 🛠️ Working on personal projects like custom wordlists & automation scripts
+
+---
+
+### 🧰 Tools & Technologies
+- **SIEM:** RSA NetWitness  
+- **Scripting:** Python, Bash  
+- **OS:** Kali Linux, Windows  
+- **Platforms:** TryHackMe
+- **Other:** Git, Wireshark, Burp Suite,Metasploit, Linux command-line
+
+---
+
+### 📌 Projects
+
+
+---
+
+### 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/itssahilpannu)  
+- [GitHub](https://github.com/itssahilpannu)
+
+---
+
+> “The quieter you become, the more you are able to hear.” – Kali Linux
